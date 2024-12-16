@@ -1,4 +1,4 @@
 # demo
 First Git repository
 <br>
-Name- Kaushal P
+Name- Kaushal (Student)
